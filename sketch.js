@@ -24,7 +24,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background(0);
+  background(230);
   Engine.run(engine);
 
   ground.display();
