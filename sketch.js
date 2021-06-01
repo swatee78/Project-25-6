@@ -16,7 +16,7 @@ function setup() {
 	//Create the Bodies Here.
   ground = new Ground(400,500,800,20)
   dustbin = new Dustbin(500,290);
-  paper = new Paper(100,450,70);
+  paper = new Paper(100,450,170);
    
     
 }
